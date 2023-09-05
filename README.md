@@ -1,1 +1,4 @@
+
 # coursegit
+##project rules
+
